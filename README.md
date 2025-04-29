@@ -89,7 +89,8 @@ yyerror(char*s)
  
 
 # Output
-![Screenshot 2025-04-29 141331](https://github.com/user-attachments/assets/37d17ce9-30e7-41fd-b757-f0c72107ab0e)
+![Screenshot 2025-04-29 193331](https://github.com/user-attachments/assets/031bce7b-790e-4645-9c0c-4002a55aa103)
+
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
